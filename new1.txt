@@ -1,0 +1,1 @@
+This is a cloud computing lab.We learnt linux commands.Linux is an open source operating system.
